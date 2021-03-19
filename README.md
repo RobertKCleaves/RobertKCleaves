@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a former avionics technician turned Self-taught programmer.
+I'm currently working on some Python projects. 
+Learning C++ hoping to get into virtual production.
+
+Pronouns: He/Him/His
+
 <!--
 **RobertKCleaves/RobertKCleaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
