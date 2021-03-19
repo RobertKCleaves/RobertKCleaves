@@ -1,3 +1,5 @@
+<a href="twitter.com/RobbieCleaves"><img src="https://img.shields.io/static/v1?logo=twitter&logoColor=white&label=&message=@RobbieCleaves&color=1DA1F2&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/robbie-cleaves/"><img src="https://img.shields.io/static/v1?logo=linkedin&logoColor=white&label=&message=Robert%20K%20Cleaves&color=0A66C2&style=for-the-badge" /></a>
+
 ### Hi there 👋
 
 I'm a former avionics technician turned Self-taught programmer.
