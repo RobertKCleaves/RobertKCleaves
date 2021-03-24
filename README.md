@@ -6,7 +6,7 @@ Learning C++ hoping to get into virtual production.
 
 Pronouns: He/Him/His
 
-<a href="twitter.com/RobbieCleaves"><img src="https://img.shields.io/static/v1?logo=twitter&logoColor=white&label=&message=@RobbieCleaves&color=1DA1F2&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/robbie-cleaves/"><img src="https://img.shields.io/static/v1?logo=linkedin&logoColor=white&label=&message=Robert%20K%20Cleaves&color=0A66C2&style=for-the-badge" /></a>
+<a href="https://twitter.com/RobbieCleaves"><img src="https://img.shields.io/static/v1?logo=twitter&logoColor=white&label=&message=@RobbieCleaves&color=1DA1F2&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/robbie-cleaves/"><img src="https://img.shields.io/static/v1?logo=linkedin&logoColor=white&label=&message=Robert%20K%20Cleaves&color=0A66C2&style=for-the-badge" /></a> <a href="https://codepen.io/robertkcleaves"><img src="https://img.shields.io/static/v1?logo=codepen&logoColor=white&label=&message=RobertKCleaves&color=1e1f26&style=for-the-badge" /></a>
 
 <!--
 **RobertKCleaves/RobertKCleaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
