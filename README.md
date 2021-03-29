@@ -5,8 +5,19 @@ I'm currently working on some Python projects.
 Learning C++ hoping to get into virtual production.
 
 Pronouns: He/Him/His
+<!-- Twitter -->
+[![Twitter](https://img.shields.io/static/v1?logo=twitter&logoColor=white&label=&message=@RobbieCleaves&color=1DA1F2&style=for-the-badge)](https://twitter.com/RobbieCleaves)
+[![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&logoColor=white&label=&message=Robert%20K%20Cleaves&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/robbie-cleaves)
+[![CodePen](https://img.shields.io/static/v1?logo=codepen&logoColor=white&label=&message=robertkcleaves&color=1e1f26&style=for-the-badge)](https://codepen.io/robertkcleaves)
 
-<a href="https://twitter.com/RobbieCleaves"><img src="https://img.shields.io/static/v1?logo=twitter&logoColor=white&label=&message=@RobbieCleaves&color=1DA1F2&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/robbie-cleaves/"><img src="https://img.shields.io/static/v1?logo=linkedin&logoColor=white&label=&message=Robert%20K%20Cleaves&color=0A66C2&style=for-the-badge" /></a> <a href="https://codepen.io/robertkcleaves"><img src="https://img.shields.io/static/v1?logo=codepen&logoColor=white&label=&message=RobertKCleaves&color=1e1f26&style=for-the-badge" /></a>
+
+<!-- Javascript 
+<img src="https://img.shields.io/static/v1?logo=javascript&logoColor=black&label=&message=Intermediate&color=F7DF1E&style=for-the-badge" />
+<!-- Python 
+<img src="https://img.shields.io/static/v1?logo=python&logoColor=white&label=&message=Intermediate&color=3776AB&style=for-the-badge" />
+<!-- C++ 
+<img src="https://img.shields.io/static/v1?logo=cplusplus&logoColor=white&label=&message=Learning&color=00599C&style=for-the-badge" />
+-->
 
 <!--
 **RobertKCleaves/RobertKCleaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
