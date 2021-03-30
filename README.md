@@ -2,7 +2,7 @@
 
 I'm a former avionics technician turned Self-taught programmer.
 I'm currently working on some Python projects. 
-Learning C++ hoping to get into virtual production.
+Hoping to get into virtual production, VR/AR, and game development.
 
 Pronouns: He/Him/His
 
